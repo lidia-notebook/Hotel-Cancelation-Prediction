@@ -27,8 +27,6 @@ This project aims to build a **predictive model** for booking cancellations and 
 ### 2. Data Preparation  
 - Clean and preprocess the dataset: handle missing values, remove duplicates, and convert date features.  
 - **Feature Engineering:**  
-  - Lead time, length of stay, weekend vs. weekday.  
-  - Average Daily Rate (ADR) per person.  
   - Historical cancellations, booking changes, and special requests.  
 - Encode categorical variables: market segment, deposit type, customer type, reserved room type, country.  
 

@@ -1,4 +1,4 @@
-# Hotel Booking Demand Prediction
+# Hotel Booking Cancelation Prediction
 
 ## Overview  
 The hospitality industry has long focused on **occupancy rates** as a primary performance indicator. However, high occupancy does not necessarily guarantee profitability. Hotels face two major challenges:  
